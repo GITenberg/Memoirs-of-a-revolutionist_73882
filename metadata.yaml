@@ -1,0 +1,28 @@
+_repo: Memoirs-of-a-revolutionist_73882
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kropotkin, Peter
+    gutenberg_agent_id: '57261'
+    url: http://www.gutenberg.org/2009/agents/57261
+description: ''
+gutenberg_issued: '2024-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73882'
+language: en
+pgterms:marc904: https://archive.org/details/memoirsofrevolut00krop_0/page/n9/mode/2up
+pgterms:marc905: 20231229094609kropotkin
+pgterms:marc906: '1906'
+pgterms:marc907: GB
+production_note: Lukas Bystricky, Joeri de Ruiter and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bSwan Sonnenschein & Co., Ltd., $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Memoirs of a revolutionist
+url: http://www.gutenberg.org/ebooks/73882
