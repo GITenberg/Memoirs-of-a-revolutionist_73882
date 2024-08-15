@@ -1,11 +1,16 @@
 _repo: Memoirs-of-a-revolutionist_73882
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73882-h/images/cover.jpg
 creator:
   author:
     agent_name: Kropotkin, Peter
     gutenberg_agent_id: '57261'
     url: http://www.gutenberg.org/2009/agents/57261
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73882#Memoirs-of-a-revolutionist
 gutenberg_issued: '2024-06-21'
 gutenberg_type: Text
 identifiers:
